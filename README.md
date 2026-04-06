@@ -16,4 +16,4 @@ Repositório com atividades desenvolvidas na disciplina de Técnicas Avançadas 
 
 ## 👩‍💻 Aluna
 
-Desenvolvido por ** Fernanda silva **
+Desenvolvido por **Fernanda silva**
